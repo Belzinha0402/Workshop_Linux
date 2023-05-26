@@ -1,8 +1,11 @@
 # Workshop_Linux
 Meu primeiro EP da SKY - ( O que aprendemos no workshop de Linux ? ) :) 
-# Linux ?
+# Linux 
 
 Um núcleo de sistemas que possui como objetivo que o usuário seja livre para quem quiser acessar, pois possui sofwters livre, prezando pela liberdade de acesso do código fonte de qualquer software pela comunidade de usuários como forma de acessibilidade tecnologica e adquirimento de conteúdo.
+
+![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/26f27fc6-0277-4d35-b22c-f2e3d3536b16)
+
 
 # Caracteristicas Gerais/Teóricas
 
@@ -10,6 +13,8 @@ Um núcleo de sistemas que possui como objetivo que o usuário seja livre para q
 - Constitui a interface do hardware do 
 computador
 - Escrito em baixo nivel com linguagens do tipo C e e Assembly,
+
+![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/21a69ff4-7f8e-49cd-b064-04c88c4bd569)
 
 # Distros
 
@@ -21,37 +26,47 @@ computador
 
 #EXEMPLO:
 
-● Debian - Distribuição estável raiz
-○ Ubuntu -
+● Debian                                           ● Arch                                        ● Gentoo
+○ Ubuntu                                           ○ Manjaro                                     ● Fedora
 ○ Linux Mint 
 ○ Linux Lite 
 ○ Zorin OS
-● Arch 
-○ Manjaro
-● Gentoo
-● Fedora
+
+
+![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/79b76451-7e3c-43b0-9113-81ad340ec660)
+
 
  --> Não existe um melhor ou pior depende do próposito do usuário 
 
 # Sistema de arquivos (FHS)
-- TUDO É ARQUIVO (define os principais diretórios(/), e o seu conteúdo)
-  --> Seguro contra ataques
-     --> Ler/Modificar/Executar
+- TUDO É ARQUIVO (define os principais diretórios(/), e o seu conteúdo
      
-     TEMOS O SUDOO !!! (permite modificar as permissÔes e acessos)
-     
+     ![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/27713f4c-6f7a-4216-aab7-85565fef1498)
+
  # Diretórios  do usuário e protegido:    
  - /home
-  
+ 
+ --> Seguro contra ataques
+     --> Ler/Modificar/Executar
+
+     TEMOS O SUDOO !!! (permite modificar as permissÔes e acessos)
+     
  # Terminal de comando 
  - Acesso total dos comandos
+ 
+  ![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/a10f81f3-a9ff-495d-a0a8-be8104a53353)
+
   ● Formato
-[função] - 
+[função] 
 [flag] - opção que você coloca no seu comando para copiar tudo de um diretório.
-[argumento] - 
+[argumento]  
 ○ flags são opcionais
 ● “Flag” ou “option” -h ou --help
  - Para descobrir o que cada função faz
- - 
+ 
 --> Sem interface de usuário
+
+# FIMMM 
+![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/8a01862e-23a5-4808-99a8-cc5260956864)
+
 
