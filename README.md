@@ -67,6 +67,30 @@ computador
  
 --> Sem interface de usuário
 
+# Principais comandos: 
+![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/311b0f88-20c3-424a-8d74-0793d5491c8f)
+
+# Recursos importantes 
+
+- Ctrl + Alt + T - Abre o alternador de janelas e programas abertos no computador.
+- Ctrl + Shift + T - A última aba fechada da janela do navegador reaparece.
+- Ctrl + C - Interrompe um programa.
+- Navegação por setas
+- Tecla tab
+- Comando clear
+- Ctrl + R - Pesquisa em seu histórico os últimos programas utilizados.
+- Editor nano
+- Comando htop
+- Arquivo .bashrc
+- Fica “escondido”
+- Diretório padrão ~/
+- Iniciado junto com o terminal
+- Gerenciador de pacotes
+- No Ubuntu - APT
+ --> sudo apt update
+ --> sudo apt upgrade
+ --> sudo apt install [package
+
 # FIMMLINUX  
 ![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/8a01862e-23a5-4808-99a8-cc5260956864)
 
