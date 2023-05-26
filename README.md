@@ -49,10 +49,11 @@ computador
  --> Seguro contra ataques
      --> Ler/Modificar/Executar
 
-     TEMOS O SUDOO !!! (permite modificar as permissÔes e acessos)
+     TEMOS O SUDOO !!! (permite modificar as permissÔes e ter acessos a funções de arquivos protegidos)
      
  # Terminal de comando 
  - Acesso total dos comandos
+ - Interpretador de comandos 
  
   ![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/a10f81f3-a9ff-495d-a0a8-be8104a53353)
 
@@ -66,7 +67,7 @@ computador
  
 --> Sem interface de usuário
 
-# FIMMM 
+# FIMMLINUX  
 ![image](https://github.com/Belzinha0402/Workshop_Linux/assets/134566350/8a01862e-23a5-4808-99a8-cc5260956864)
 
 
